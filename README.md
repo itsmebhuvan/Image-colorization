@@ -1,8 +1,8 @@
-# 🎨 AI Image Colorization
+# 🎨 Deep Learning Image Colorization
 
 ### *Deep Learning-based Colorization of Grayscale Images*
 
-This project implements an **AI-based Image Colorization System** using a **U-Net deep learning model** that predicts color channels (a, b) from a grayscale image (L). A **Flask web application** is included for easy user interaction, allowing seamless upload and colorization of images.
+This project implements an **Deep Learning-based Image Colorization System** using a **U-Net deep learning model** that predicts color channels (a, b) from a grayscale image (L). A **Flask web application** is included for easy user interaction, allowing seamless upload and colorization of images.
 
 ---
 
@@ -52,7 +52,7 @@ AI-Image-Colorization/
 
 ## 🚀 Features
 
-* 🌈 **Automatic AI colorization** from grayscale to realistic color.
+* 🌈 **Automatic Deep Learning colorization** from grayscale to realistic color.
 * 🧠 **U-Net deep learning model** trained on LAB color space.
 * 🌐 **Flask-based web app** with drag-and-drop upload.
 * 📥 Upload grayscale → 🔄 AI processing → 🎨 Download colorized output.
@@ -213,7 +213,5 @@ saved_models/      → trained weights
 
 Pull requests are welcome.
 Please follow clean coding standards and document any major changes.
-
----
 
 
